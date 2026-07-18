@@ -127,6 +127,7 @@ Open Interface
 <details>
     <summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" alt="Python Logo" width="15" height="15"> <b>Run as a Script</b></summary>
     <ul>
+	  <li>Install Python 3.12 or newer.</li>
 	  <li>Clone the repo <code>git clone https://github.com/AmberSahdev/Open-Interface.git</code></li>
       <li>Enter the directory <code>cd Open-Interface</code></li>
       <li><b>Optionally</b> use a Python virtual environment 
@@ -243,17 +244,15 @@ Open Interface
 +----------------------------------------------------+
 ```
 
---- 
+---
 
 ### <ins>Star History</ins> ⭐️
 
-<a href="https://www.star-history.com/?repos=AmberSahdev%2FOpen-Interface&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AmberSahdev/Open-Interface&type=date&theme=dark&legend=top-left&sealed_token=IgBsnKBlQM60goJK9DF5RRfBYxTQ0MKLj7IodpL7BlmJuAQhIy0PsL4HelQBH3sKtW42Z7HxyBpYe2orSGZ9FdgHV3J8zSOZDMVUwqBa5FqIYsVKa5D0z22igWLHB6wLRXVV1_0577Bv6CKchloATHxBaDeaKTZHD5KHaPXBi27my5z-0DKts1sxZPmo" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AmberSahdev/Open-Interface&type=date&legend=top-left&sealed_token=IgBsnKBlQM60goJK9DF5RRfBYxTQ0MKLj7IodpL7BlmJuAQhIy0PsL4HelQBH3sKtW42Z7HxyBpYe2orSGZ9FdgHV3J8zSOZDMVUwqBa5FqIYsVKa5D0z22igWLHB6wLRXVV1_0577Bv6CKchloATHxBaDeaKTZHD5KHaPXBi27my5z-0DKts1sxZPmo" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AmberSahdev/Open-Interface&type=date&legend=top-left&sealed_token=IgBsnKBlQM60goJK9DF5RRfBYxTQ0MKLj7IodpL7BlmJuAQhIy0PsL4HelQBH3sKtW42Z7HxyBpYe2orSGZ9FdgHV3J8zSOZDMVUwqBa5FqIYsVKa5D0z22igWLHB6wLRXVV1_0577Bv6CKchloATHxBaDeaKTZHD5KHaPXBi27my5z-0DKts1sxZPmo" />
- </picture>
-</a>
+<!-- star-history:start -->
+<img alt="Star history" src="assets/star-history/star-history-light.svg">
+<!-- star-history:end -->
+
+---
 
 ### <ins>Links</ins> 🔗
 - Check out more of my projects at [AmberSah.dev](https://AmberSah.dev).
